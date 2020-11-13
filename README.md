@@ -5,7 +5,7 @@
 
 ## Preview
 
-![Screenshot](https://i.imgur.com/bB90Ojh.jpg)
+![Screenshot](https://i.imgur.com/oU7HvfC.jpg)
 
 Tabela de conteúdos
 =================
