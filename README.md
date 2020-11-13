@@ -13,7 +13,7 @@ Tabela de conteúdos
 <!--te-->
 
 ## Instalação
-1) <a hrfe="https://github.com/davidaugusto89/redirect/archive/main.zip" target="_blank">Clique aqui</a> e baixe o zip com os arquivos.<br />
+1) <a href="https://github.com/davidaugusto89/redirect/archive/main.zip" target="_blank">Clique aqui</a> e baixe o zip com os arquivos.<br />
 2) Faça upload do zip ou da dos arquivos para o servidor remoto.<br />
 2.1) Caso seja feito o upload do zip, será necessário descompactar o mesmo no servidor.<br />
 
