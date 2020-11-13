@@ -8,8 +8,8 @@ Tabela de conteúdos
 <!--ts-->
    * [Instalação](#instalacao)
    * [Como usar](#como-usar)
-      * [config.json](#config)
-      * [inks_redirect.csv](#links)
+      * [config.json](#config.json)
+      * [inks_redirect.csv](#links_redirect.csv)
 <!--te-->
 
 ## Instalação
