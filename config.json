@@ -1,0 +1,8 @@
+{
+  "titulo_pagina": "Redirecionamento",
+  "head_line": "Redirecionador",
+  "sub_head_line": "Redirecionador para meteorico personalizavel. &#128521;",
+  "spinner": "<div class=\"loader_custom\" style=\"width:120px;height:120px;\"></div>",
+  "mensagem_redirect": "Você será redirecionado em alguns segundos!",
+  "tempo_redirect": "5"
+}
