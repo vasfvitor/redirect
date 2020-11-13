@@ -3,6 +3,10 @@
 ## Descrição do Projeto
 <p>"Sistema" de redirecionamento para grupos de meteórico no WhatsApp.</p>
 
+## Preview
+
+![Screenshot](https://i.imgur.com/bB90Ojh.jpg)
+
 Tabela de conteúdos
 =================
 <!--ts-->
